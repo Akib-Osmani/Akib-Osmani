@@ -1,20 +1,22 @@
 ![Student](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/274985646_930186957692135_1768030226485572439_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHMlc4y3Y3dTF9snZzsUnw9cEelRoCOGGdwR6VGgI4YZyzvI2Sdidr1XJ7z8iIRgi38mozOF3A6RCJyYavCKD-9&_nc_ohc=CKawKjYoUogAX-u6tzn&_nc_ht=scontent.fdac157-1.fna&oh=00_AfCjhCW2kf4HHZtbaQURi_vbp_lIrBL6h_D9YnySITbiHw&oe=652EEEF7)
-### Hello there 🙌, Myself Akib Osmani.
+### Hello there 🙌,
+   Myself Akib Osmani.
 #### Student
 
 
-I am currently studying Computer Science and Engineering in American International University-Bangladesh. I will upload all of my projects, skill development task and codes here.
+I am currently studying Computer Science and Engineering in American International University-Bangladesh. 
+I will upload all of my projects, skill development task and codes here.
 
 Skills:
-✔ C/C++
-✔ Microsoft PowerPoint/Microsoft Word Document
-✔ Monkey Typing (High WPM)
+### ✔ C/C++
+### ✔ Microsoft PowerPoint/Microsoft Word Document
+###✔ Monkey Typing (High WPM)
 
-- 🔭 I’m currently working on a coding project. 
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Problem solving 
-- 📫 How to reach me: Email : akibosmani@gmail.com 
+- 🚀 I’m currently working on some Coding Base Project. 
+- 🐍 I’m currently learning Python. 
+- 🤝I’m looking to collaborate on Github.
+- 💬 You can ask me about Code Problem solving. 
+- 📥You can reach me through Email : akibosmani@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Akib-Osmani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/akibosman02)  
