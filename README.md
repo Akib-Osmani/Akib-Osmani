@@ -1,11 +1,14 @@
 ![Student](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/274985646_930186957692135_1768030226485572439_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHMlc4y3Y3dTF9snZzsUnw9cEelRoCOGGdwR6VGgI4YZyzvI2Sdidr1XJ7z8iIRgi38mozOF3A6RCJyYavCKD-9&_nc_ohc=CKawKjYoUogAX-u6tzn&_nc_ht=scontent.fdac157-1.fna&oh=00_AfCjhCW2kf4HHZtbaQURi_vbp_lIrBL6h_D9YnySITbiHw&oe=652EEEF7)
-### Hello there 👋, Myself Akib Osmani.
+### Hello there 🙌, Myself Akib Osmani.
 #### Student
 
 
 I am currently studying Computer Science and Engineering in American International University-Bangladesh. I will upload all of my projects, skill development task and codes here.
 
-Skills: C/C++/Microsoft PowerPoint/Microsoft Word Document/Monkey Typing (High WPM)
+Skills:
+✔ C/C++
+✔ Microsoft PowerPoint/Microsoft Word Document
+✔ Monkey Typing (High WPM)
 
 - 🔭 I’m currently working on a coding project. 
 - 🌱 I’m currently learning Python 
