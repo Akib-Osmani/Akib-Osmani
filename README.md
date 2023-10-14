@@ -7,11 +7,12 @@
 I am currently studying Computer Science and Engineering in American International University-Bangladesh. 
 I will upload all of my projects, skill development task and codes here.
 
-Skills:
+#### Skills:
 ##### ✔ C/C++
 ##### ✔ Microsoft PowerPoint/Microsoft Word Document
 ##### ✔ Monkey Typing (High WPM)
 
+#### Updates about me :
 - 🚀 I’m currently working on some Coding Base Project. 
 - 🐍 I’m currently learning Python. 
 - 🤝I’m looking to collaborate on Github.
