@@ -10,7 +10,7 @@ I will upload all of my projects, skill development task and codes here.
 #### Skills:
 ##### ✔ C/C++
 ##### ✔ Microsoft PowerPoint/Microsoft Word Document
-##### ✔ Monkey Typing (High WPM)
+##### ✔ Monkey Typing 
 
 #### Updates about me :
 - 🚀 I’m currently working on some Coding Base Project. 
