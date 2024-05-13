@@ -9,13 +9,13 @@ I will upload all of my projects, skill development task and codes here.
 
 #### Skills:
 ##### ✔ C/C++
+##### ✔ JAVA
 ##### ✔ Microsoft PowerPoint/Microsoft Word Document
 ##### ✔ Monkey Typing 
 
 #### Updates about me :
 - 🚀 I’m currently working on some Coding Base Project. 
-- 🐍 I’m currently learning Python. 
-- 🤝I’m looking to collaborate on Github.
+- 🐍 I’m currently learning DSA. 
 - 💬 You can ask me about Code Problem solving. 
 - 📥You can reach me through Email : akibosmani@gmail.com 
 
