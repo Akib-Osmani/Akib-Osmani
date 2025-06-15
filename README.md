@@ -1,5 +1,5 @@
 # 👋 Hello there  
-I'm **Akib Osmani**, a dedicated student and tech enthusiast.
+I'm **Akib Osmani**, a dedicated student and .
 
 #### 🎓 Student | Learner | Problem Solver
 Currently studying **Computer Science and Engineering** at **American International University-Bangladesh (AIUB)**.  
@@ -13,17 +13,15 @@ I love working with **Data Science**, tackling challenging problems, and creatin
   <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default&cache_seconds=86400" width="48%" height="195" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Osmani&theme=default" width="48%" height="195" />
 </p>
-🔥 Keep the Momentum Going!
-<p align="center">
-  <strong>🚀 Coding every day | 💪 Building tomorrow's tech | 🎯 One commit at a time</strong>
-</p>
+🔥 Keeping the Momentum Going!
+
 ---
 
 ## 🔍 What I'm Working On:
 - 📊 Python for Data Analysis, Pandas, NumPy  
 - 📈 Data Exploration and creating meaningful visualizations  
 - 🤖 Learning Machine Learning fundamentals with Scikit-learn  
-- 💻 Database work with SQL, Jupyter Notebooks, Git & GitHub  
+- 💻 Database work with SQL, Jupyter Notebooks, Git Bash & GitHub  
 
 ---
 
