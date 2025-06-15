@@ -11,8 +11,8 @@ I love working with **Data Science**, tackling challenging problems, and creatin
 
 ### 📊 GitHub Stats & Streaks:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Akib-Osmani&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default" width="48%"  height="60%" />
+  <img src="https://streak-stats.demolab.com?user=Akib-Osmani&theme=default" width="48%" height="60%"/>
 </p>
 
 ---
