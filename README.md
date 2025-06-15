@@ -1,7 +1,7 @@
 # 👋 Hello there  
 I'm **Akib Osmani**, a dedicated student and Tech Explorer.
 
-#### 🎓 Student | Learner | Problem Solver
+## 🎓 Student | Learner | Problem Solver
 Currently studying **Computer Science and Engineering** at **American International University-Bangladesh (AIUB)**.  
 I love working with **Data Science**, tackling challenging problems, and creating smart solutions.
 
@@ -10,15 +10,15 @@ I love working with **Data Science**, tackling challenging problems, and creatin
 ---
 📊 GitHub Stats & Streaks:
 <div align="center">
-  <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default&cache_seconds=86400" style="max-width: 100%; width: 48%; min-width: 300px; min-height:170px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Osmani&theme=default" style="max-width: 100%; width: 48%; min-width: 300px; min-height:170px;" />
+  <div style="display: flex; flex-direction: column; align-items: center; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default&cache_seconds=86400" style="width: 100%; max-width: 100%; min-width: 300px; min-height: 170px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Osmani&theme=default" style="width: 100%; max-width: 100%; min-width: 300px; min-height: 170px;" />
   </div>
 </div>
 
 🔥 Keeping the Momentum Going!
-
 ---
+
 
 ## 🔍 What I'm Working On:
 - 📊 Python for Data Analysis, Pandas, NumPy  
