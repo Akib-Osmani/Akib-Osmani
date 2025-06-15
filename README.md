@@ -10,12 +10,12 @@ I love working with **Data Science**, tackling challenging problems, and creatin
 ---
 📊 GitHub Stats & Streaks:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default&v=1" width="48%" height="195" />
-  <img src="https://streak-stats.demolab.com?user=Akib-Osmani&theme=default&hide_border=true&v=1" width="48%" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default&cache_seconds=86400" width="48%" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Osmani&theme=default" width="48%" height="195" />
 </p>
-🔥 Keepping the Momentum Going!
+🔥 Keep the Momentum Going!
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=🚀+Keep+the+streak+alive!;💪+Coding+every+day+counts!;🎯+One+commit+closer+to+success!&v=1" alt="Motivational Typing Animation" />
+  <strong>🚀 Coding every day | 💪 Building tomorrow's tech | 🎯 One commit at a time</strong>
 </p>
 ---
 
