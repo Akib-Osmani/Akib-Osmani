@@ -1,5 +1,5 @@
 # 👋 Hello there  
-I'm **Akib Osmani**, a dedicated student and .
+I'm **Akib Osmani**, a dedicated student and Tech Explorer.
 
 #### 🎓 Student | Learner | Problem Solver
 Currently studying **Computer Science and Engineering** at **American International University-Bangladesh (AIUB)**.  
