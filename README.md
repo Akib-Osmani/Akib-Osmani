@@ -48,4 +48,5 @@ I'm currently studying Computer Science and Engineering at American Internationa
 
 ![GitHub streak stats](https://streak-stats.demolab.com?user=Akib-Osmani&theme=default)
 
-![Profile views](https://gpvc.arturio.dev/Akib-Osmani)
+![GitHub followers](https://img.shields.io/github/followers/Akib-Osmani?label=Follow&style=social)
+
