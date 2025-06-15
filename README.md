@@ -11,8 +11,8 @@ I love working with **Data Science**, tackling challenging problems, and creatin
 📊 GitHub Stats & Streaks:
 <div align="center">
   <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default&cache_seconds=86400" style="max-width: 100%; width: 48%; min-width: 300px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Osmani&theme=default" style="max-width: 100%; width: 48%; min-width: 300px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default&cache_seconds=86400" style="max-width: 100%; width: 48%; min-width: 300px; min-height:170px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Osmani&theme=default" style="max-width: 100%; width: 48%; min-width: 300px; min-height:170px;" />
   </div>
 </div>
 
@@ -32,7 +32,7 @@ I love working with **Data Science**, tackling challenging problems, and creatin
 - 💻 **Programming**: Python (Beginner–Intermediate), C/C++, Java  
 - 🔧 **Tools & Tech**: Jupyter Notebooks, Git, GitHub, SQL  
 - 📝 **Productivity**: MS Word, PowerPoint  
-- ⚡ **Fun Fact**: Super fast typist (Monkeytype enthusiast 🐵⌨️)
+- ⚡ **Fun Fact**: Super fast typist (Monkeytype enthusiast : https://monkeytype.com/profile/Akib_Osmani 🐵⌨️)
 
 ### 📈 Most Used Languages (GitHub):
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akib-Osmani&layout=compact&langs_count=8&theme=default)
