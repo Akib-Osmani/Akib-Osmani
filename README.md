@@ -1,7 +1,7 @@
 # 👋 Hello there  
 I'm **Akib Osmani**, a dedicated student and tech enthusiast.
 
-### 🎓 Student | Tech Explorer | Code Enthusiast
+#### 🎓 Student | Learner | Problem Solver
 Currently studying **Computer Science and Engineering** at **American International University-Bangladesh (AIUB)**.  
 I love working with **Data Science**, tackling challenging problems, and creating smart solutions.
 
