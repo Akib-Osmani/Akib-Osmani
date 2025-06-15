@@ -8,13 +8,15 @@ I love working with **Data Science**, tackling challenging problems, and creatin
 > 🚀 I'm working hard to become a Data Scientist — one project, one analysis, one challenge at a time.
 
 ---
-
-### 📊 GitHub Stats & Streaks:
+📊 GitHub Stats & Streaks:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default" width="48%" height="195" />
-  <img src="https://streak-stats.demolab.com?user=Akib-Osmani&theme=default" width="48%" height="195" />
+  <img src="https://streak-stats.demolab.com?user=Akib-Osmani&theme=default&hide_border=true" width="48%" height="195" />
 </p>
-
+🔥 Current Coding Streak:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=🚀+Keep+the+streak+alive!;💪+Coding+every+day!;🎯+One+commit+at+a+time!" alt="Typing SVG" />
+</p>
 ---
 
 ## 🔍 What I'm Working On:
