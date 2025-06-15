@@ -9,10 +9,12 @@ I’m passionate about **Data Science**, solving real-world problems, and buildi
 
 > 🚀 I'm actively investing time to become a Data Scientist — one project, one notebook, one challenge at a time.
 
+---
+
 ### 📈 GitHub Stats & Streaks:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Akib-Osmani&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default" width="48%" height="200" />
+  <img src="https://streak-stats.demolab.com?user=Akib-Osmani&theme=default" width="48%" height="200" />
 </p>
 
 ---
@@ -44,6 +46,7 @@ I’m passionate about **Data Science**, solving real-world problems, and buildi
 ---
 
 ## 📬 Let's Connect:
-- 📧 Email: akibosmani@gmail.com  
-- 🐙 GitHub: [Akib-Osmani](https://github.com/Akib-Osmani)  
-- 📘 Facebook: [facebook.com/akibosman02](https://www.facebook.com/akibosman02)
+[![Email](https://img.shields.io/badge/Email-akibosmani@gmail.com-red?style=flat-square&logo=gmail)](mailto:akibosmani@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Akib--Osmani-black?style=flat-square&logo=github)](https://github.com/Akib-Osmani)
+[![Facebook](https://img.shields.io/badge/Facebook-akibosman02-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/akibosman02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-akib--osmani02-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akib-osmani02/)
