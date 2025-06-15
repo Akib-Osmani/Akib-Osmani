@@ -9,10 +9,13 @@ I love working with **Data Science**, tackling challenging problems, and creatin
 
 ---
 📊 GitHub Stats & Streaks:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default&cache_seconds=86400" width="48%" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Osmani&theme=default" width="48%" height="195" />
-</p>
+<div align="center">
+  <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default&cache_seconds=86400" style="max-width: 100%; width: 48%; min-width: 300px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akib-Osmani&theme=default" style="max-width: 100%; width: 48%; min-width: 300px;" />
+  </div>
+</div>
+
 🔥 Keeping the Momentum Going!
 
 ---
