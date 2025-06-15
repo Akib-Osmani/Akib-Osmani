@@ -1,4 +1,5 @@
-![Student](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/274985646_930186957692135_1768030226485572439_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHMlc4y3Y3dTF9snZzsUnw9cEelRoCOGGdwR6VGgI4YZyzvI2Sdidr1XJ7z8iIRgi38mozOF3A6RCJyYavCKD-9&_nc_ohc=CKawKjYoUogAX-u6tzn&_nc_ht=scontent.fdac157-1.fna&oh=00_AfCjhCW2kf4HHZtbaQURi_vbp_lIrBL6h_D9YnySITbiHw&oe=652EEEF7)
+![Student](https://github.com/Akib-Osmani/Akib-Osmani/blob/main/student.jpg?raw=true)
+
 
 ### Hello there 🙌  
 My name is Akib Osmani.
