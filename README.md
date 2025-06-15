@@ -39,18 +39,6 @@ I'm currently studying Computer Science and Engineering at American Internationa
 
 ### 🏆 Achievements, Stats & Activity:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Akib-Osmani&theme=onestar&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akib-Osmani&layout=compact&langs_count=8&theme=default)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default)
-
-![GitHub streak stats](https://streak-stats.demolab.com?user=Akib-Osmani&theme=default)
-
-![Profile views](https://gpvc.arturio.dev/Akib-Osmani)
-
----
-
 <div align="center">
 
 <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
@@ -60,3 +48,15 @@ I'm currently studying Computer Science and Engineering at American Internationa
 <a href="https://github.com/sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"></a>
 
 </div>
+
+
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akib-Osmani&theme=onestar&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akib-Osmani&layout=compact&langs_count=8&theme=default)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default)
+
+![GitHub streak stats](https://streak-stats.demolab.com?user=Akib-Osmani&theme=default)
+
+![Profile views](https://gpvc.arturio.dev/Akib-Osmani)
