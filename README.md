@@ -1,39 +1,61 @@
 ![Student](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/274985646_930186957692135_1768030226485572439_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHMlc4y3Y3dTF9snZzsUnw9cEelRoCOGGdwR6VGgI4YZyzvI2Sdidr1XJ7z8iIRgi38mozOF3A6RCJyYavCKD-9&_nc_ohc=CKawKjYoUogAX-u6tzn&_nc_ht=scontent.fdac157-1.fna&oh=00_AfCjhCW2kf4HHZtbaQURi_vbp_lIrBL6h_D9YnySITbiHw&oe=652EEEF7)
-### Hello there 🙌,
-   Myself Akib Osmani.
-#### Student
 
+### Hello there 🙌  
+My name is Akib Osmani.
 
-I am currently studying Computer Science and Engineering in American International University-Bangladesh. 
-I will upload all of my projects, skill development task and codes here.
+#### 🎓 Student | Learner | Problem Solver
 
-#### Skills:
-##### ✔ C/C++
-##### ✔ JAVA
-##### ✔ Microsoft PowerPoint/Microsoft Word Document
-##### ✔ Monkey Typing 
+I'm currently studying Computer Science and Engineering at American International University-Bangladesh (AIUB). I'm deeply passionate about using data to uncover patterns, solve real-world problems, and build intelligent systems.
 
-#### Updates about me :
-- 🚀 I’m currently working on some Coding Base Project. 
-- 🐍 I’m currently learning DSA. 
-- 💬 You can ask me about Code Problem solving. 
-- 📥You can reach me through Email : akibosmani@gmail.com 
+> I'm actively investing time to become a Data Scientist — one project, one notebook, one challenge at a time.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Akib-Osmani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/akibosman02)  
+### 🔍 What I'm Exploring Right Now:
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📊 Python for Data Analysis, Pandas, NumPy
+- 📈 Exploratory Data Analysis (EDA) and visualization
+- 🤖 Machine Learning basics using Scikit-learn
+- 📚 SQL, Jupyter Notebooks, and version control with GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Akib-Osmani)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Akib-Osmani)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠 Skills:
+- ✔ C / C++
+- ✔ Java
+- ✔ Python (Beginner-Intermediate)
+- ✔ Microsoft Word & PowerPoint
+- ✔ Typing speed & accuracy (Monkeytype addict 🐵⌨️)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Akib-Osmani&show_icons=true&count_private=true)  
+---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Akib-Osmani)  
+### 📬 Let's Connect:
+- Email: akibosmani@gmail.com
+- GitHub: [Akib-Osmani](https://github.com/Akib-Osmani)
+- Facebook: [facebook.com/akibosman02](https://www.facebook.com/akibosman02)
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Akib-Osmani)  
+---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Akib-Osmani)  
+### 🏆 Achievements, Stats & Activity:
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Akib-Osmani)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akib-Osmani&theme=onestar&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akib-Osmani&layout=compact&langs_count=8&theme=default)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akib-Osmani&show_icons=true&count_private=true&theme=default)
+
+![GitHub streak stats](https://streak-stats.demolab.com?user=Akib-Osmani&theme=default)
+
+![Profile views](https://gpvc.arturio.dev/Akib-Osmani)
+
+---
+
+<div align="center">
+
+<a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
+<a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a>
+<a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a>
+<a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"></a>
+<a href="https://github.com/sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35"></a>
+
+</div>
