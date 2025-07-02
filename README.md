@@ -5,6 +5,7 @@ I'm **Akib Osmani**, a dedicated student and Tech Explorer.
 Currently studying **Computer Science and Engineering** at **American International University-Bangladesh (AIUB)**.  
 I love working with **Data Science**, tackling challenging problems, and creating smart solutions.
 
+🌟 Featured Repo: [Data Science Journey](https://github.com/Akib-Osmani/data-science-journey) – Python, ML, Git, and more
 > 🚀 I'm working hard to become a Data Scientist — one project, one analysis, one challenge at a time.
 
 ---
